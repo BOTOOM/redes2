@@ -3,8 +3,8 @@
 ### Redes de las Comunicaciones II
 ![UDistrital](../images/udistrital_esc.png "Universidad Distrital Francisco José de Caldas")
 
-### Laboratorio 1
-### Proceso encapsulamiento Arquitecturas Red LAN-WAN-LAN
+### Laboratorio 2
+### Laboratorio Actividad Caso de estudio - Diseño Jerárquico Red
 
 #### Laboratorio desarrolado por :
 * Edwar Diaz Ruiz Cód. 20141020004
@@ -16,5 +16,5 @@
 * Cisco Packet Tracer - version 7.2
 
 #### Descripcion
-laboratorio de montaje de una topologia para el caso aplicado propuesto en la *prueba de entrada* realizada por el docente.
-[Descripcion Doc](https://www.overleaf.com/read/wqqxkxftcwmg "Descripcion Latex")
+Laboratorio de montaje de una topologia y estructura fisica de red para el caso aplicado propuesto en el recurso *Caso de Estudio - Diseño Jerarquico de una Red* realizada por el docente.
+[Descripcion Doc](https://www.overleaf.com/read/rwmmmwngvpqd "Descripcion Latex")

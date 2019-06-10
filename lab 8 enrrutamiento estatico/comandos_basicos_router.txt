@@ -8,3 +8,7 @@ line vty 0 4
 password cisco
 login
 exit
+ex
+copy running-config startup-config
+
+

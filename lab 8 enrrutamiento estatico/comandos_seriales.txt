@@ -4,7 +4,7 @@ interface serial 0/1/0
 no shutdown
 ip address 200.0.0.1 255.255.255.252
 exit
-
+---------
 
 
 
@@ -24,6 +24,7 @@ interface serial 0/0/0
 no shutdown
 ip address 200.0.0.9 255.255.255.252
 ex
+--------------------
 
 
 
@@ -33,7 +34,7 @@ interface serial 0/1/0
 no shutdown
 ip address 200.0.0.6 255.255.255.252
 exit
-
+-------------------
 
 
 enable
@@ -47,7 +48,7 @@ interface serial 0/1/1
 no shutdown
 ip address 200.0.0.13 255.255.255.252
 ex
-
+--------------
 
 
 
@@ -68,7 +69,7 @@ no shutdown
 ip address 200.0.0.21 255.255.255.252
 clock rate 56000
 ex
-
+--------------------
 
 
 enable
@@ -87,7 +88,7 @@ no shutdown
 ip address 200.0.0.53 255.255.255.252
 clock rate 56000
 ex
-
+-------------
 
 
 enable
@@ -104,7 +105,7 @@ interface serial 0/1/1
 no shutdown
 ip address 200.0.0.29 255.255.255.252
 ex
-
+-------------------
 
 enable
 configure terminal
@@ -122,7 +123,7 @@ no shutdown
 ip address 200.0.0.30 255.255.255.252
 clock rate 56000
 ex
-
+----------------
 
 
 
@@ -143,6 +144,7 @@ no shutdown
 ip address 200.0.0.45 255.255.255.252
 clock rate 56000
 ex
+----------------------
 
 
 
@@ -152,7 +154,7 @@ interface serial 0/1/1
 no shutdown
 ip address 200.0.0.38 255.255.255.252
 ex
-
+-----------------------
 
 enable
 configure terminal
@@ -169,6 +171,7 @@ interface serial 0/0/1
 no shutdown
 ip address 200.0.0.46 255.255.255.252
 ex
+--------------------
 
 
 
@@ -178,7 +181,7 @@ interface serial 0/1/1
 no shutdown
 ip address 200.0.0.50 255.255.255.252
 ex
-
+------------
 
 
 enable
@@ -197,6 +200,7 @@ no shutdown
 ip address 200.0.0.61 255.255.255.252
 clock rate 56000
 ex
+-----------
 
 
 
@@ -217,7 +221,7 @@ no shutdown
 ip address 200.0.0.69 255.255.255.252
 clock rate 56000
 ex
-
+--------------------
 
 
 enable
@@ -272,7 +276,7 @@ interface serial 0/0/1
 no shutdown
 ip address 200.0.0.70 255.255.255.252
 ex
-
+------------
 
 enable
 configure terminal
